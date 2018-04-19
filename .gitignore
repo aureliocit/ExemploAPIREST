@@ -1,1 +1,6 @@
-src/Alturas/bin
+src/Alturas/bin/
+src/Alturas/obj/
+src/APIAlturas/bin/
+src/APIAlturas/obj/
+test/AlturasTest/bin/
+test/AlturasTest/obj/
